@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9TBns3t8oUaXP6hcDCgV87TpTiM7bdLXVsGZw8UEFa9cvypdqz2hOTcpBZ1Wsoe7312YGGsXOHiBH/hCFR0Bg==",
+  "success": true,
+  "projectFilePath": "D:\\bootcamp\\KhanateJob.Presintation\\KhanateJob.Presintation\\KhanateJob.Presintation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Djava\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\bin\Debug\net6.0\KhanateJob.DAL.deps.json
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\bin\Debug\net6.0\KhanateJob.DAL.dll
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\bin\Debug\net6.0\KhanateJob.DAL.pdb
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\bin\Debug\net6.0\KhanateJob.Domain.dll
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\bin\Debug\net6.0\KhanateJob.Domain.pdb
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\KhanateJob.DAL.csproj.AssemblyReference.cache
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\KhanateJob.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\KhanateJob.DAL.AssemblyInfoInputs.cache
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\KhanateJob.DAL.AssemblyInfo.cs
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\KhanateJob.DAL.csproj.CoreCompileInputs.cache
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\KhanateJob.DAL.csproj.CopyComplete
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\KhanateJob.DAL.dll
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\refint\KhanateJob.DAL.dll
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\KhanateJob.DAL.pdb
+D:\bootcamp\KhanateJob.Presintation\KhanateJob.DAL\obj\Debug\net6.0\ref\KhanateJob.DAL.dll

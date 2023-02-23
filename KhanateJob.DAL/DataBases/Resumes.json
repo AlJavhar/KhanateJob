@@ -1,0 +1,74 @@
+[
+  {
+    "UserId": 10,
+    "Objective": "R",
+    "Education": "W",
+    "Experince": "E",
+    "Activities": "Q",
+    "Salary": 210.0,
+    "JobTableId": 1,
+    "Id": 1,
+    "CreatedAt": "2023-02-23T07:17:04.2700953Z",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "UserId": 20,
+    "Objective": "f",
+    "Education": "s",
+    "Experince": "d",
+    "Activities": "a",
+    "Salary": 200.0,
+    "JobTableId": 1,
+    "Id": 2,
+    "CreatedAt": "2023-02-23T07:17:04.3822158Z",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "UserId": 30,
+    "Objective": "v",
+    "Education": "x",
+    "Experince": "c",
+    "Activities": "z",
+    "Salary": 100.0,
+    "JobTableId": 1,
+    "Id": 3,
+    "CreatedAt": "2023-02-23T07:17:04.3934717Z",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "UserId": 10,
+    "Objective": "R",
+    "Education": "W",
+    "Experince": "E",
+    "Activities": "Q",
+    "Salary": 210.0,
+    "JobTableId": 1,
+    "Id": 4,
+    "CreatedAt": "2023-02-23T07:18:24.8085495Z",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "UserId": 20,
+    "Objective": "f",
+    "Education": "s",
+    "Experince": "d",
+    "Activities": "a",
+    "Salary": 200.0,
+    "JobTableId": 1,
+    "Id": 5,
+    "CreatedAt": "2023-02-23T07:18:24.8280464Z",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  },
+  {
+    "UserId": 30,
+    "Objective": "v",
+    "Education": "x",
+    "Experince": "c",
+    "Activities": "z",
+    "Salary": 100.0,
+    "JobTableId": 1,
+    "Id": 6,
+    "CreatedAt": "2023-02-23T07:18:24.8393709Z",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]

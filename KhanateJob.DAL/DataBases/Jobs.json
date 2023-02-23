@@ -1,0 +1,14 @@
+[
+  {
+    "Categories": 10,
+    "JobName": "B",
+    "City": "Tashkent",
+    "WhatTheyDo": "D",
+    "HowToBecomeOne": "A",
+    "Salary_Info": "C",
+    "Salary": 100.0,
+    "Id": 1,
+    "CreatedAt": "2023-02-23T07:17:04.1667986Z",
+    "UpdatedAt": "2023-02-23T07:18:24.7365663Z"
+  }
+]
